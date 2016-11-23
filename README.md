@@ -30,7 +30,7 @@ This guide focuses on functional programming concepts written in Elm.
 	- Using Keyboard and Mouse
 - Elm-Graphics/Collage
 	- Building stuff with [Elm’s original Graphics Library]
- 
+
 ### Functional Web with Elm
 - Intro to Elm (same as FP concept guide)
 - Intro Web technology
@@ -39,4 +39,3 @@ This guide focuses on functional programming concepts written in Elm.
 	- Hello, World!
 	- Writing more Html
 - Elm Architecture
-
