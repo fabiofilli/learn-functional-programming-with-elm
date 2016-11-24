@@ -31,7 +31,7 @@ This guide focuses on functional programming concepts written in Elm.
 	- Basics
 	- Using Keyboard and Mouse
 - Elm-Graphics/Collage
-	- Building stuff with [Elm’s original Graphics Library]
+	- Building stuff with [Elm’s original Graphics Library](http://package.elm-lang.org/packages/evancz/elm-graphics/latest)
 
 ### Functional Web with Elm
 This guide includes web technologies.
