@@ -1,4 +1,4 @@
-# Learn Functional Programming with Elm
+# Learn Functional Programming with [Elm](http://elm-lang.org)
 
 ## About
 I want to introduce functional programming to young hackers with the functional language [Elm](http://elm-lang.org).
