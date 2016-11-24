@@ -1,7 +1,7 @@
 # Learn Functional Programming with Elm
 
 ## About
-I want to introduce functional programming to young hackers with the functional language Elm.
+I want to introduce functional programming to young hackers with the functional language [Elm](http://elm-lang.org).
 
 My goal is to write two guides. The first guide covers functional programming concepts and the language Elm. The second guide is an extension that includes the use of web technologies. Elm comes with web technologies (Html, CSS, SVG, …) therefore it's harder to start with as newbie to programming, especially if you don’t know how the web works.
 
