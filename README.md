@@ -23,7 +23,7 @@ The next step would be to create an interactive Elm web app to help young hacker
 - [ ] Rewrite the guides to an interactive Elm web app.
 
 ## Content
-### Fundamentals to functional programming with Elm
+### [Fundamentals to functional programming with Elm](https://github.com/fabiofilli/learn-functional-programming-with-elm/tree/master/fundamentals-to-functional-programming-with-elm)
 This guide focuses on functional programming concepts written in Elm.
 - Intro to FP
 - Intro to Elm
@@ -33,7 +33,7 @@ This guide focuses on functional programming concepts written in Elm.
 - Elm-Graphics/Collage
 	- Building stuff with [Elm’s original Graphics Library](http://package.elm-lang.org/packages/evancz/elm-graphics/latest)
 
-### Functional Web with Elm
+### [Functional Web with Elm](https://github.com/fabiofilli/learn-functional-programming-with-elm/tree/master/functional-web-with-elm)
 This guide includes web technologies.
 
 - Intro to Elm (same as FP concept guide)
