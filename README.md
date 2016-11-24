@@ -16,6 +16,7 @@ The next step would be to create an interactive Elm web app to help young hacker
 
 ### Functional Web with Elm
 - [ ] One hour guide on functional Web with Elm
+- [ ] Feedback from young hackers and mentors
 - [ ] Improvements
 
 ### Interactive Guide
@@ -24,6 +25,7 @@ The next step would be to create an interactive Elm web app to help young hacker
 ## Content
 ### Fundamentals to functional programming with Elm
 This guide focuses on functional programming concepts written in Elm.
+- Intro to FP
 - Intro to Elm
 - Functions in Elm
 	- Basics
@@ -32,7 +34,7 @@ This guide focuses on functional programming concepts written in Elm.
 	- Building stuff with [Elm’s original Graphics Library]
 
 ### Functional Web with Elm
-This guide incluses web technologies.
+This guide includes web technologies.
 
 - Intro to Elm (same as FP concept guide)
 - Intro Web technology
