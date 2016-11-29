@@ -4,6 +4,7 @@
     "repository": {},
     "scripts": {},
     "dependencies": {
-      "elm": "0.18.0"
+      "elm": "0.18.0",
+      "elm-live": "~2.6.0"
     }
 }
