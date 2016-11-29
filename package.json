@@ -3,5 +3,7 @@
     "license": "MIT",
     "repository": {},
     "scripts": {},
-    "dependencies": {}
+    "dependencies": {
+      "elm": "0.18.0"
+    }
 }
